@@ -50,6 +50,8 @@ SQL was used to perform:
 
 **[View SQL Queries](SQL_Store_Sales_Analysis.sql)**
 
+[View SQL Queries](SQL_Store_Sales_Analysis.sql)
+
 ## Dashboard
 
 The Power BI dashboard contains:
