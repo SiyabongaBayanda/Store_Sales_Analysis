@@ -51,8 +51,6 @@ SQL was used to perform:
 - Sales by category analysis- 
 - Sales by age group analysis
 
-**[View SQL Queries](SQL_Store_Sales_Analysis.sql)**
-
 [View SQL Queries](SQL_Store_Sales_Analysis.sql)
 
 ## 📊 Dashboard
@@ -83,6 +81,7 @@ The Power BI dashboard contains:
 - Channel
 
 ![HR Analytics Dashboard](Sales_Report_Dashboard.png)
+
 
 ## 🔍 Key Insights
 
