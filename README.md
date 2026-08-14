@@ -89,9 +89,7 @@ The Power BI dashboard contains:
 
 ## Recommendations
 
-1. Increase marketing investment in high-performing customer segments.
-2. Focus inventory on high-demand products.
-3. Investigate underperforming product categories.
-4. Strengthen high-performing sales channels.
-5. Develop targeted promotions during weaker sales months.
-6. Monitor monthly sales trends to improve inventory planning.
+- Target women customers of age group (30-49) living in
+- Maharashtra, Karnataka, Uttar Pradesh.
+- Strengthen Amazon, Myntra & Flipkart channels by ads/offers/coupons available
+- Investigate low-performing states for growth opportunities.
