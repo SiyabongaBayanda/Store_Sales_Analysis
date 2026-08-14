@@ -79,6 +79,7 @@ The Power BI dashboard contains:
 - Month
 - Category
 - Channel
+
 **[Sales Report Dashboard](Sales_Report_Dashboard.png)**
 
 ## Key Insights
