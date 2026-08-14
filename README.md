@@ -5,7 +5,7 @@ This project analyzes store sales data to identify sales trends,
 customer purchasing behaviour, sales performance, and business
 opportunities.
 
-## Data Source
+## 📂 Data Source
 
 **Source:** Kaggle  
 **Dataset:** Vrinda Store Sales 
@@ -20,7 +20,7 @@ opportunities.
 - <img width="90" height="91" alt="image" src="https://github.com/user-attachments/assets/cc5106b8-00a3-4ace-b376-6354e0b05094" />
 
 
-## 🎯Business Questions
+## 🎯 Business Questions
 
 1. What are the total sales and orders?
 2. Which category generates the most sales?
@@ -38,7 +38,7 @@ opportunities.
 - Standardizing & Formatting dates
 - Checking incorrect values
 
-## SQL Analysis
+## 🗃️SQL Analysis
 
 SQL was used to perform:
 
