@@ -14,7 +14,9 @@ opportunities.
 ## 🛠️ Tools Used
 
 - <img width="90" height="91" alt="image" src="https://github.com/user-attachments/assets/85742de4-7852-4b8e-b0a8-2626df22d51e" />
-- Microsoft Excel
+
+- <img width="92" height="92" alt="image" src="https://github.com/user-attachments/assets/9e589fcb-20c7-4530-a64b-11569ab19cf9" />
+
 - Power BI
 
 ## 🎯Business Questions
