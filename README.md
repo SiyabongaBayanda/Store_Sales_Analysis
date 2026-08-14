@@ -1,7 +1,7 @@
 # Store-Sales-Analysis
 # # Project Overview
 
-This project analyses store sales data to identify sales trends,
+This project analyzes store sales data to identify sales trends,
 customer purchasing behaviour, sales performance, and business
 opportunities.
 
