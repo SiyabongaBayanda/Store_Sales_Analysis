@@ -1,4 +1,4 @@
-# Store-Sales-Data-Analysis
+# Store-Sales-Analysis
 # # Project Overview
 
 This project analyses store sales data to identify sales trends,
