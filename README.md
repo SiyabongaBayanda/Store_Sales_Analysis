@@ -38,7 +38,7 @@ opportunities.
 - Standardizing & Formatting dates
 - Checking incorrect values
 
-## 🗃️SQL Analysis
+## 🗃️ SQL Analysis
 
 SQL was used to perform:
 
@@ -66,7 +66,7 @@ The Power BI dashboard contains:
 - Total Quantity Sold
 - Average Order Value
 
-### Visualizations
+### 📊 Visualizations
 
 - Monthly Sales Trend
 - Sales by Category
@@ -76,7 +76,7 @@ The Power BI dashboard contains:
 - Top 10 Products
 - Order Status
 
-### Filters
+### 📊 Filters
 
 - Month
 - Category
