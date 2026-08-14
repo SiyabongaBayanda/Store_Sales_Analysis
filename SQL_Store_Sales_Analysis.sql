@@ -70,7 +70,7 @@ FROM StoreSalesProject.dbo.VrindaStore
 GROUP BY
     [MONTH]
 ORDER BY
--- sort months in the correct calendar order.
+-- sort months in the correct callendar order.
     CASE [MONTH]
         WHEN 'January' THEN 1
         WHEN 'February' THEN 2
