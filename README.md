@@ -51,7 +51,7 @@ SQL was used to perform:
 - Sales by category analysis- 
 - Sales by age group analysis
 
-**[View SQL Queries](SQL- Store_Sales_Analysis.sql)**
+**[View SQL Queries](SQL_Store_Sales_Analysis.sql)**
 
 ## Dashboard
 
