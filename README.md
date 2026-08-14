@@ -25,17 +25,14 @@ opportunities.
 4. Which age group generates the most sales?
 5. Which month has the highest sales?
 6. Which channels generate the most orders?
-7. What are different orders status?
+7. Show different orders status?
 8. Which states generate the most sales?
 
-## Data Cleaning
-
-The following data-cleaning processes were performed:
+## Data Cleaning - SQL QUERIES
 
 - Removing duplicates
 - Checking missing values
-- Standardizing data
-- Formatting dates
+- Standardizing & Formatting dates
 - Checking incorrect values
 
 ## SQL Analysis
@@ -84,26 +81,13 @@ The Power BI dashboard contains:
 
 ## Key Insights
 
-- Women contributed a significant portion of total sales 64%.
-- Clothing was one of the major sales categories.
-- Sales varied across months.
-- Certain states and channels generated higher sales.
-- - Sales increased during the strongest-performing months.
-- Women generated a larger proportion of total sales than men.
-- A small number of product categories contributed a significant
-  percentage of total revenue.
-- The top-performing states generated a substantial share of sales.
-- Some sales channels consistently outperformed others.
-- Certain products showed significantly higher demand than the
-  overall product average.
+- Women generated a significant portion of total sales 64%.
+- Adult aged group (30-49) contributed a larger proportion of total sales.
+- Set, kurta & western dress categories contributed 88 % of total sales.
+- The top 3 performing states are Maharashtra, Karnataka, Uttar Pradesh.
+- Amazon, Myntra & Flipkart channels outperformed others by 80 %.
 
-## Conclusion
-
-The analysis provides insights into customer purchasing
-behavior and sales performance that can help the business
-improve marketing and sales strategies.
-
-## 📈 Recommendations
+## Recommendations
 
 1. Increase marketing investment in high-performing customer segments.
 2. Focus inventory on high-demand products.
