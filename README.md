@@ -94,6 +94,6 @@ The Power BI dashboard contains:
 ## 💡Recommendations
 
 - Target women customers of age group (30-49) living in
-- Maharashtra, Karnataka, Uttar Pradesh.
+  Maharashtra, Karnataka, Uttar Pradesh.
 - Strengthen Amazon, Myntra & Flipkart channels by ads/offers/coupons available
 - Investigate low-performing states for growth opportunities.
