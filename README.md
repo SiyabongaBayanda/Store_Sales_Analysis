@@ -13,7 +13,7 @@ opportunities.
 
 ## 🛠️ Tools Used
 
-- SQL <img width="880" height="891" alt="image" src="https://github.com/user-attachments/assets/85742de4-7852-4b8e-b0a8-2626df22d51e" />
+- SQL <img width="100" height="101" alt="image" src="https://github.com/user-attachments/assets/85742de4-7852-4b8e-b0a8-2626df22d51e" />
 
 - Microsoft Excel
 - Power BI
