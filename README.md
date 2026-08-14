@@ -1,5 +1,5 @@
-# Store-Sales-Analysis
-# # Project Overview
+# 🛍️ Store-Sales-Analysis
+# # 📌 Project Overview
 
 This project analyzes store sales data to identify sales trends,
 customer purchasing behaviour, sales performance, and business
@@ -11,13 +11,13 @@ opportunities.
 **Dataset:** Vrinda Store Sales 
 **Link:** [Download here](https://www.kaggle.com/datasets/amitkumar209/vrinda-store-sales-data)
 
-## Tools Used
+## 🛠️ Tools Used
 
 - SQL
 - Microsoft Excel
 - Power BI
 
-## Business Questions
+## 🎯Business Questions
 
 1. What are the total sales and orders?
 2. Which category generates the most sales?
@@ -28,7 +28,7 @@ opportunities.
 7. Show different orders status?
 8. Which states generate the most sales?
 
-## Data Cleaning - SQL QUERIES
+## 🧹 Data Cleaning - SQL QUERIES
 
 - Removing duplicates
 - Checking missing values
@@ -52,11 +52,11 @@ SQL was used to perform:
 
 [View SQL Queries](SQL_Store_Sales_Analysis.sql)
 
-## Dashboard
+## 📊 Dashboard
 
 The Power BI dashboard contains:
 
-### KPI Cards
+### 📊 KPI Cards
 
 - Total Sales
 - Total Orders
@@ -81,7 +81,7 @@ The Power BI dashboard contains:
 
 ![HR Analytics Dashboard](Sales_Report_Dashboard.png)
 
-## Key Insights
+## 🔍 Key Insights
 
 - Women generated a significant portion of total sales 64%.
 - Adult aged group (30-49) contributed a larger proportion of total sales.
@@ -89,7 +89,7 @@ The Power BI dashboard contains:
 - The top 3 performing states are Maharashtra, Karnataka, Uttar Pradesh.
 - Amazon, Myntra & Flipkart channels outperformed others by 80 %.
 
-## Recommendations
+## 💡Recommendations
 
 - Target women customers of age group (30-49) living in
 - Maharashtra, Karnataka, Uttar Pradesh.
