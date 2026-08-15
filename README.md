@@ -1,5 +1,5 @@
 # 🛍️ Store-Sales-Analysis
-# # 📌 Project Overview
+## 📌 Project Overview
 
 This project analyzes store sales data to identify sales trends,
 customer purchasing behaviour, sales performance, and business
@@ -77,8 +77,8 @@ The Power BI dashboard contains:
 ### 📊 Filters
 
 - Month
-- Category
 - Channel
+- Category
 
 ![HR Analytics Dashboard](Sales_Report_Dashboard.png)
 
