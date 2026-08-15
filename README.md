@@ -1,5 +1,5 @@
-# 🛍️ Store-Sales-Analysis
-## 📌 Project Overview
+#  Store-Sales-Analysis
+##  Project Overview
 
 This project analyzes store sales data to identify sales trends,
 customer purchasing behaviour, sales performance, and business
