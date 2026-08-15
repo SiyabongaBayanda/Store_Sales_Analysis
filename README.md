@@ -27,7 +27,7 @@ opportunities.
 7. Show different orders status?
 8. Which states generate the most sales?
 
-## 🧹 Data Cleaning - SQL QUERIES
+## 🧹 Data Cleaning - SQL Queries
 
 - Removing duplicates
 - Checking missing values
