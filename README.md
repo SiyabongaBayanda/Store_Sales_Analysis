@@ -82,7 +82,7 @@ The Power BI dashboard contains:
 ## 🔍 Key Insights
 
 - Women generated a significant portion of total sales 64%.
-- Adult aged group (30-49) contributed a larger proportion sales.
+- Adult age group (30-49) contributed a larger proportion sales.
 - Set, kurta & western dress categories contributed 88 % sales.
 - Q1 recorded the highest quarterly sales.
 - The top 3 performing states are Maharashtra, Karnataka, Uttar Pradesh.
