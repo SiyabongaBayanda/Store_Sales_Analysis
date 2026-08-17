@@ -53,14 +53,14 @@ SQL was used to perform:
 
 The Power BI dashboard contains:
 
-###  KPI Cards
+### KPI Cards
 
 - Total Sales
 - Total Orders
 - Total Quantity Sold
 - Average Order Value
 
-###  Visualizations
+### Visualizations
 
 - Monthly Sales Trend
 - Sales by Category
@@ -70,7 +70,7 @@ The Power BI dashboard contains:
 - Top 10 Products
 - Order Status
 
-###  Filters
+### Filters
 
 - Month
 - Channel
@@ -84,7 +84,7 @@ The Power BI dashboard contains:
 - Women generated a significant portion of total sales 64%.
 - Adult aged group (30-49) contributed a larger proportion of total sales.
 - Set, kurta & western dress categories contributed 88 % of total sales.
-- Q1 sales are above 
+- Q1 achieved highest quarterly sales.
 - The top 3 performing states are Maharashtra, Karnataka, Uttar Pradesh.
 - Amazon, Myntra & Flipkart channels outperformed others by 80 %.
 
@@ -92,5 +92,6 @@ The Power BI dashboard contains:
 
 - Target women customers of age group (30-49) living in
   Maharashtra, Karnataka, Uttar Pradesh.
-- Strengthen Amazon, Myntra & Flipkart channels by ads/offers/coupons available
+- Strengthen Amazon, Myntra & Flipkart channels by ads/offers/coupons available.
+- Increase inventory and staffing in December to maximize Q1 sales. 
 - Investigate low-performing states for growth opportunities.
