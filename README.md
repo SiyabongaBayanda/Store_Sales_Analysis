@@ -53,14 +53,14 @@ SQL was used to perform:
 
 The Power BI dashboard contains:
 
-### 📊 KPI Cards
+###  KPI Cards
 
 - Total Sales
 - Total Orders
 - Total Quantity Sold
 - Average Order Value
 
-### 📊 Visualizations
+###  Visualizations
 
 - Monthly Sales Trend
 - Sales by Category
@@ -70,7 +70,7 @@ The Power BI dashboard contains:
 - Top 10 Products
 - Order Status
 
-### 📊 Filters
+###  Filters
 
 - Month
 - Channel
