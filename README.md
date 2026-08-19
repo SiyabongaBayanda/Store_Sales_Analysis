@@ -13,7 +13,7 @@ opportunities.
 
 ## 🛠️ Tools Used
 
-SQL <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/85742de4-7852-4b8e-b0a8-2626df22d51e" />  Excel<img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/9e589fcb-20c7-4530-a64b-11569ab19cf9" />  Power BI<img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/cc5106b8-00a3-4ace-b376-6354e0b05094" />
+SQL <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/85742de4-7852-4b8e-b0a8-2626df22d51e" />  Excel<img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/9e589fcb-20c7-4530-a64b-11569ab19cf9" />  Power BI<img width="91" height="90" alt="image" src="https://github.com/user-attachments/assets/cc5106b8-00a3-4ace-b376-6354e0b05094" />
 
 
 ## 🎯 Business Questions
