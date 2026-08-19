@@ -76,7 +76,7 @@ The Power BI dashboard contains:
 - Channel
 - Category
 
-![HR Analytics Dashboard] (Sales_Report_Dashboard.png)
+![HR Analytics Dashboard](Sales_Report_Dashboard.png)
 
 
 ## 🔍 Key Insights
